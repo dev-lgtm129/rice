@@ -1,2 +1,4 @@
-# ricing
-a collection of dotfiles and wallpapers
+# Clone this repo
+```
+git clone https://github.com/dev-lgtm129/rice
+```
